@@ -1,16 +1,11 @@
 ## Welcome to Apex Studio Codes :)  
 
 
-Apex Studio Codes is a passionate team of developers and designers dedicated to crafting exceptional digital experiences. With a focus on creativity, innovation, and technical excellence, we transform ideas into visually stunning and highly functional websites tailored to your unique needs.
-Our mission is to empower businesses and individuals by providing reliable, scalable, and affordable web solutions. We pride ourselves on our collaborative approach, attention to detail, and commitment to delivering outstanding results on every project.
-Whether you are a startup, a growing business, or an established enterprise, Apex Studio Codes is your trusted partner for achieving your online goals with confidence and success.
-We believe in the power of technology to transform lives and businesses. Our team is dedicated to staying at the forefront of industry trends and best practices, ensuring that we deliver cutting-edge solutions that meet the evolving needs of our clients.
-At Apex Studio Codes, we understand that every project is unique. That's why we take the time to listen to your needs, understand your goals, and work closely with you throughout the development process. Our collaborative approach ensures that we create solutions that not only meet your expectations but exceed them.
-We are committed to delivering exceptional quality and value in everything we do. Our team of skilled professionals combines technical expertise with a passion for design, resulting in websites that are not only visually appealing but also highly functional and user-friendly.
-Our services include web design, web development, e-commerce solutions, content management systems, and more. We leverage the latest technologies and frameworks to create responsive, fast-loading, and secure websites that provide an optimal user experience across all devices.
-We take pride in our ability to adapt to the unique needs of each client. Whether you need a simple brochure website, a complex web application, or an e-commerce platform, we have the expertise and experience to deliver a solution that fits your requirements and budget.
-At Apex Studio Codes, we are not just a service provider; we are your partner in success. We are dedicated to helping you achieve your online goals and grow your business through innovative and effective web solutions. Our commitment to excellence, customer satisfaction, and continuous improvement sets us apart in the industry.
-Contact us today to learn more about how we can help you create a powerful online presence that drives results and elevates your brand. Let us be your trusted partner in navigating the digital landscape and achieving your business objectives with confidence.
+Here at Apex Studio Codes we offer a range of technical solutions for businesses of any scale in all areas of the technical industry. Our goal is to provide the best service in improving the technical world and help to build up businesses technical infrastructure. Whether you are looking for simple technical support or a complete network setup and reconfiguration we can help you to discover your businesses technical potential, our team have hands on experience with a varity of skills including; network setup & administration, website developement and design, and technical support. These skills are important to us at Apex Studio Codes as we strive to provide the best customer service we can.
+
+Our team is built with a variety of skills in different areas of the technical industry to ensure we can provide the best service possible to our customers. We are a small team of highly skilled individuals who are passionate about technology and helping businesses to grow and improve their technical infrastructure. We believe that technology is a powerful tool that can help businesses to achieve their goals and we are dedicated to helping our customers to harness this power.
+
+If you have any questions or enquires about Apex Studio Codes, contact us at support@apexstudiocodes.com to speak to one of our team members who will provide you with all the help and services you require.
 <!--
 
 **Here are some ideas to get you started:**
